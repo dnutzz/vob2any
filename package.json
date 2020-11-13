@@ -1,0 +1,17 @@
+{
+  "name": "mishmash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "any-shell-escape": "^0.1.1",
+    "child_process": "^1.0.2",
+    "ffmpeg-static": "^4.2.7",
+    "path": "^0.12.7"
+  }
+}
